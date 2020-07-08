@@ -1,0 +1,6 @@
+projectKey=com.bezkoder:spring-boot-data-cassandra
+serverUrl=http://localhost:9000
+serverVersion=8.3.1.34397
+dashboardUrl=http://localhost:9000/dashboard?id=com.bezkoder%3Aspring-boot-data-cassandra
+ceTaskId=AXK9HuaD9EHiZyYtH8hY
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXK9HuaD9EHiZyYtH8hY

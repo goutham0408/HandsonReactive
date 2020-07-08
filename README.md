@@ -1,2 +1,7 @@
-# HandsonReactive
-Spring Reactive Handson
+# Notes Library
+
+
+## Run Spring Boot application
+```
+mvn spring-boot:run
+```
